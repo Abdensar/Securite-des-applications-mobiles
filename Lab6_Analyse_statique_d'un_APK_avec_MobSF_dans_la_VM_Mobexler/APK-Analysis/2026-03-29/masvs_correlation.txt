@@ -1,0 +1,16 @@
+=== OWASP MASVS CORRELATION ===
+
+Finding 1: debuggable=true
+MASVS Reference: MASVS-RESILIENCE-4
+Impact: Attacker can attach debugger and dump memory
+Fix: Set android:debuggable=false in production
+
+Finding 2: allowBackup=true
+MASVS Reference: MASVS-STORAGE-8
+Impact: Full app data extractable via ADB without root
+Fix: Set android:allowBackup=false in manifest
+
+Finding 3: minSdk=24
+MASVS Reference: MASVS-CODE-1
+Impact: App runs on unpatched Android 7.0 devices
+Fix: Raise minSdk to 29 minimum

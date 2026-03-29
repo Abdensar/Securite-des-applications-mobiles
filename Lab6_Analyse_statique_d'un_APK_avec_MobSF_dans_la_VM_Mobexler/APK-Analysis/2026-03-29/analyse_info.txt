@@ -1,0 +1,8 @@
+=== ANALYSIS TRACEABILITY ===
+Date: Sun 29 Mar 2026 05:13:21 AM EDT
+Analyst: [Adansar Abdessamad]
+APK file: app-debug.apk
+dd7c1932f506ea626622325fa5a041f4061aa8ff9cbf1454a58cc7f233efc4a6  app-debug.apk
+MobSF version: Version 4.0.6 
+Analysis start: Sun 29 Mar 2026 05:49:22 AM EDT
+Security Score: 36/100 

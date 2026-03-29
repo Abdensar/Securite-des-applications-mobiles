@@ -53,7 +53,6 @@ adb install UnCrackable-Level2.apk
 
 📸 **Screenshots :**
 ![adb install](images/02_adb_install.png)
-![adb install success](images/03_adb_install_success.png)
 
 ---
 

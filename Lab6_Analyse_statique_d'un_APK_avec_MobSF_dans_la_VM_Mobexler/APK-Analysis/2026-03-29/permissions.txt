@@ -1,0 +1,8 @@
+=== DANGEROUS PERMISSIONS ===
+No standard Android dangerous permissions found.
+
+=== CUSTOM PERMISSIONS ===
+Permission: ma.ens.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+Status: unknown
+Info: Unknown permission from android reference
+Description: Code mappings

@@ -1,0 +1,3 @@
+=== EXPORTED COMPONENTS ===
+Receiver: android.profileinstaller.ProfileInstallReceiver (no protecting permission)
+Provider: android.startup.InitializationProvider (no protecting permission)
