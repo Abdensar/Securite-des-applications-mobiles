@@ -222,6 +222,7 @@ L'application expose l'intégralité de ses 13 challenges de sécurité sans auc
 **Captures d'écran — Activités exportées et challenges :**
 
 ![Activité APICreds](images/9-exported_activity.png)
+
 *Activité `APICreds` ouverte directement par MobSF sans authentification — credentials API exposés*
 
 ![Challenges DIVA](images/10-diva_challenges.png)
@@ -290,6 +291,7 @@ DIVA ne met en œuvre **aucune protection réseau**. Les 4/4 tests sont des éch
 *Interface des tests TLS/SSL MobSF — 4 tests configurés et lancés*
 
 ![Résultats TLS](images/13-tls_ssl_results.png)
+
 *Résultats : 4/4 tests interceptés — aucune protection réseau détectée dans DIVA*
 
 ---
